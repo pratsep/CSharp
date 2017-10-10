@@ -38,9 +38,10 @@ namespace TeineKohtumine
                 return "Auto sõidab kiirusega " + _kiirus + "km/h";
             }
         }
-        public void ToString()
+
+        public override string ToString()
         {
-            Console.WriteLine(Hetkeseis());
+            return Hetkeseis();
         }
     }
 }

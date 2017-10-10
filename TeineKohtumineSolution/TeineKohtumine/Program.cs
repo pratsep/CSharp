@@ -30,13 +30,15 @@ namespace TeineKohtumine
             Console.WriteLine();
 
             Mootorsoiduk auto = new Mootorsoiduk(90);
-            auto.ToString();
+            Console.WriteLine(auto);
             auto.Kiirenda();
-            auto.ToString();
+            Console.WriteLine(auto);
             auto.Kiirenda(14);
-            auto.ToString();
+            Console.WriteLine(auto);
             auto.Stop();
-            auto.ToString();
+            Console.WriteLine(auto);
+
+
             //int tulemus = new Ristkylik(2, 3).arvutaPindala();
             Console.ReadLine();
         }

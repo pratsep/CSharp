@@ -1,7 +1,6 @@
 C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\bin\Debug\TeineKohtumine.exe.config
 C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\bin\Debug\TeineKohtumine.exe
 C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\bin\Debug\TeineKohtumine.pdb
-C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\obj\Debug\TeineKohtumine.csprojResolveAssemblyReference.cache
 C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\obj\Debug\TeineKohtumine.csproj.CoreCompileInputs.cache
 C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\obj\Debug\TeineKohtumine.exe
 C:\Users\ratse\Desktop\ITK\CSharp\TeineKohtumineSolution\TeineKohtumine\obj\Debug\TeineKohtumine.pdb
